@@ -22,6 +22,16 @@ Now, for a little bit more about me:
 - 📧 How to reach me: [Email](chardige23@gmail.com) & [LinkedIn](https://www.linkedin.com/in/charlotte-dige/)
 
 ## Coding languages and tools
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"></img>
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTM5L" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" alt="Handlebars" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="60" height="60"></img>
+
 </div>
