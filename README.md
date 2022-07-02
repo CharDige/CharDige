@@ -25,6 +25,11 @@ Now, for a little bit more about me:
 
 ## Coding languages and tools
 <div align="center">
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharDige&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTM5L" width="60" height="60"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"></img>
