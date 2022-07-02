@@ -4,6 +4,8 @@
 <img alt="Communications master badge" src="https://img.shields.io/badge/Communications-master-brightgreen"></img>
 <img alt="Web developer in training badge" src="https://img.shields.io/badge/Web%20developer-in%20training-yellow"></img>
 <img alt="Unicorn always badge" src="https://img.shields.io/badge/Unicorn-always-ff69b4"></img>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CharDige&theme=soft-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 ## About me
