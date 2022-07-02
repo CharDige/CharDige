@@ -16,7 +16,7 @@ I'm an aspiring full-stack developer, passionate storyteller and professional in
 
 Now, for a little bit more about me:
 
-- 🖥️ I'm currently working on a range of different responsive web applications. [Check them out!](https://github.com/CharDige?tab=repositories)
+- 🖥️ I'be been working on a range of different responsive web applications. [Check them out!](https://github.com/CharDige?tab=repositories)
 - 👩‍🎓 I'm currently studying Full Stack Web Development through the University of Adelaide. My current qualifications include a Bachelor of Journalism and Professional Writing and a Bachelor of Arts (English & Creative Writing)
 - 💼 I currently work as a Communications and Engagement Advisor
 - ✏️📚 I'm a lover of all things writing, reading and storytelling
