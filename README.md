@@ -2,7 +2,7 @@
 
 <div align="center">
 <img alt="Communications master badge" src="https://img.shields.io/badge/Communications-master-brightgreen"></img>
-<img alt="Web developer in training badge" src="https://img.shields.io/badge/Web%20developer-in%20training-yellow"></img>
+<img alt="Web developer in training badge" src="https://img.shields.io/badge/Web%20developer-adept-blue"></img>
 <img alt="Unicorn always badge" src="https://img.shields.io/badge/Unicorn-always-ff69b4"></img>
 
 <br>
@@ -42,5 +42,10 @@ Now, for a little bit more about me:
 <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" alt="Handlebars" width="60" height="60"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"></img>
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="60" height="60"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="60" height="60"></img>
 
 </div>
