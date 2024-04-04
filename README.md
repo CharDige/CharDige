@@ -23,7 +23,6 @@ Now, for a little bit more about me:
 - 🟩 My favourite colour is green
 - 💬 Ask me about my favourite books and video games (if you're willing to hear me talk for hours)
 - 👩‍🦰 Pronouns: she/her
-- 📧 How to reach me: [Email](chardige23@gmail.com) & [LinkedIn](https://www.linkedin.com/in/charlotte-dige/)
 
 ## Coding languages and tools
 <div align="center">
